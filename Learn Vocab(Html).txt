@@ -1,0 +1,8 @@
+Declaration  = ประกาศ
+Represent    = แทน
+correctly    = อย่างถูกต้อง  
+Appear       = ปรากฏ
+Specified    = ระบุ
+Attributes   = คุญลักษณะ
+Provide      = จัดเตรียม
+Additional   = เพิ่มเติม
